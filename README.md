@@ -16,9 +16,9 @@
 
 ## System Requirements
 
-- [git][git] v2.13 or greater
-- [NodeJS][node] `>=16`
-- [npm][npm] v8.16.0 or greater
+- [git](https://git-scm.com/) v2.13 or greater
+- [NodeJS](https://nodejs.org]) `>=16`
+- [npm](https://www.npmjs.com/) v8.16.0 or greater
 
 All of these must be available in your `PATH`. To verify things are set up
 properly, you can run this:
